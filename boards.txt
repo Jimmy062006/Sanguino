@@ -54,7 +54,7 @@ atmega644p.upload.maximum_size=64512
 atmega644p.upload.maximum_data_size=4096
 
 atmega644p.upload.protocol=arduino
-atmega644p.upload.speed=115200
+atmega644p.upload.speed=57600
 atmega644p.bootloader.path=optiboot
 atmega644p.bootloader.file=optiboot_atmega644p.hex
 
